@@ -1,0 +1,6 @@
+2023-Sep-02-20:19:18, Etl Job Started
+2023-Sep-02-20:19:18, Extraction phase is Done!
+2023-Sep-02-20:19:18, Transformation Job Started
+2023-Sep-02-20:19:18, Transformation phase is Done!
+2023-Sep-02-20:19:18, Loading Job Started
+2023-Sep-02-20:19:18, Loading phase is Done!
