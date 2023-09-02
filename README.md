@@ -68,7 +68,7 @@ log('Loading Job Started')
 load(transformed_data)
 log('Loading phase is Done!')
 
-# Logging
+# logging
 
 You can track the progress of the ETL process by checking the "logfile.txt" file, which contains timestamped log messages.
 
